@@ -1,2 +1,2 @@
 # python-challenge
-My first python assignment
+#A demo of python
